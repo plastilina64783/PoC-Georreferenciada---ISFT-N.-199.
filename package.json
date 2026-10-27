@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@deck.gl/geo-layers": "^8.9.36",
     "@deck.gl/layers": "^8.9.36",
     "@deck.gl/react": "^8.9.36",
     "@supabase/supabase-js": "^2.39.0",
