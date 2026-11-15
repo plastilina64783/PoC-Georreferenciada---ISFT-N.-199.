@@ -104,7 +104,7 @@ export default function App() {
         border: '1px solid #e2e8f0'
       }}>
         <h3 style={{ margin: '0 0 4px 0', fontSize: '16px', color: '#1e293b' }}>ISFT N.º 199</h3>
-        <p style={{ margin: '0 0 12px 0', fontSize: '12px', color: '#64748b', fontWeight: '500' }}>PoC Georreferenciada</p>
+        <p style={{ margin: '0 0 12px 0', fontSize: '12px', color: '#64748b', fontWeight: '500' }}>PoC Georreferenciada incidentes viales</p>
         
         <hr style={{ border: 'none', borderTop: '1px solid #f1f5f9', margin: '10px 0' }} />
         
